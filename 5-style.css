@@ -1,0 +1,13 @@
+#titlle {
+    color: chartreuse;
+}
+
+.subtittle,
+.post_tittle {
+    color: orangered;
+}
+
+.post_tittle {
+    font-size: 16;
+    font-style: italic;
+}
