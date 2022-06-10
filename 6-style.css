@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+.postt {
+    background-color: gray;
+    padding: 10px;
+    border: 3px solid cornsilk;
+    margin: 10 px;
+}
+
+#titlle {
+    color: chartreuse;
+}
+
+.subtittle,
+.post_tittle {
+    color: orangered;
+}
+
+.post_tittle {
+    font-size: 16;
+    font-style: italic;
+}
